@@ -69596,14 +69596,14 @@ A.H3.prototype={
 K(a){var s=null
 return new A.v_(new A.wT(s),"\uad50\uc721\ube44 \ud658\uae09 \uacc4\uc0b0\uae30",A.pT(s,s,B.Fw,s),s)}}
 A.wT.prototype={
-ac(){return new A.N7(A.b(["\ub2f9\uc2e0\uc774 \ubd80\ub2f4\ud55c \ud559\uc6d0\ube44 \ub3cc\ub824\ub4dc\ub9b4\uac8c\uc694.","\uc790\ub140\uc758 \ucd9c\uc0dd\uc5f0\ub3c4, \uc785\ud559\uc5f0\ub3c4\uc640\n\uad50\uc721\ube44 \uacf5\uc81c\uc561\ub9cc \uc785\ub825\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4.","\ud68c\uc6d0\uac00\uc785, \ubcf8\uc778\ud655\uc778\ub3c4 \ud544\uc694 \uc5c6\uc2b5\ub2c8\ub2e4."],t.s))}}
+ac(){return new A.N7(A.b(["\ub2f9\uc2e0\uc774 \ubd80\ub2f4\ud55c \ud559\uc6d0\ube44 \ub3cc\ub824\ub4dc\ub9b4\uac8c\uc694.\n\ud68c\uc6d0\uac00\uc785, \ubcf8\uc778\ud655\uc778\ub3c4 \ud544\uc694 \uc5c6\uc2b5\ub2c8\ub2e4.","\uc790\ub140\uc758 \ucd9c\uc0dd\uc5f0\ub3c4, \uc785\ud559\uc5f0\ub3c4\uc640\n\uad50\uc721\ube44 \uacf5\uc81c\uc561\ub9cc \uc785\ub825\ud558\uc2dc\uba74 \ub429\ub2c8\ub2e4."],t.s))}}
 A.N7.prototype={
 au(){this.aR()
 this.po()},
 po(){var s=0,r=A.P(t.H),q=this,p,o,n,m
 var $async$po=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:p=t.z,o=0
-case 2:if(!(o<3)){s=4
+case 2:if(!(o<2)){s=4
 break}new A.aaE(q,o).$0()
 q.c.cp()
 s=5
@@ -69671,7 +69671,7 @@ p.toString
 r=A.ED(new A.a74(q,s),null,t.z)
 A.iI(p,!1).jL(r)}}},
 K(a){var s=null,r=A.aF(4280557340),q=A.ce("\uc785\ud559\uc5f0\ub3c4 \uc785\ub825",s,s,s,A.cq(s,s,B.k,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)
-return A.G7(A.Q5(A.aF(4294948892),q),r,new A.cp(new A.aq(16,16,16,16),A.afk(this.d,A.VO(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,B.k,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"\uc785\ud559\uc5f0\ub3c4 \uc785\ub825",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.jo,4,new A.a73(this),s),s))}}
+return A.G7(A.Q5(A.aF(4294948892),q),r,new A.cp(new A.aq(16,16,16,16),A.afk(this.d,A.VO(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,B.k,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"\uc785\ud559\uc5f0\ub3c4 \uc785\ub825 (2020-2024)",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.jo,4,new A.a73(this),s),s))}}
 A.a74.prototype={
 $1(a){return new A.lR(this.b,this.a.a.c,null)},
 $S:442}
@@ -69685,7 +69685,7 @@ A.JB.prototype={
 au(){var s,r,q,p
 this.aR()
 s=this.a.d+5
-for(r=s+4,q=this.d,p=s;p<=r;++p)if(p<=2024)q.push(p)},
+for(r=s+2,q=this.d,p=s;p<=r;++p)if(p<=2024)q.push(p)},
 abe(){var s,r,q,p=this,o=null,n=p.r,m=A.aeZ(n.a.a)
 if(m==null)m=0
 if(m>45e4){n=p.c

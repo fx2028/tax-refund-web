@@ -73185,7 +73185,7 @@ $S:464}
 A.nF.prototype={
 u4(){var s=0,r=A.R(t.H),q
 var $async$u4=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:q=A.ju("https://open.kakao.com/o/s8cCMIkh",0,null)
+while(true)switch(s){case 0:q=A.ju("https://open.kakao.com/o/sW3uB8oh",0,null)
 s=2
 return A.X(A.ajb(q,B.Dp),$async$u4)
 case 2:if(!b)throw A.h(A.dL("Could not launch "+q.k(0)))
